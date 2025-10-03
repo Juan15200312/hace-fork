@@ -1,2 +1,3 @@
-numero="1"
-print(numero)
+numero=100
+palabra = 'tuvi'
+print(f'{numero}: {tuvi}')
